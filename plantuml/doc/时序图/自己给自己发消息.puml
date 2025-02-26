@@ -1,0 +1,3 @@
+@startuml
+Alice ->Alice : This is a signal to self.\n 很好用
+@enduml

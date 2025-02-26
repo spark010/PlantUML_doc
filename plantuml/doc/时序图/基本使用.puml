@@ -1,0 +1,4 @@
+@startuml
+Alice -> Bob: Authen Req
+Bob --> Alice: Authen Resp
+@enduml
